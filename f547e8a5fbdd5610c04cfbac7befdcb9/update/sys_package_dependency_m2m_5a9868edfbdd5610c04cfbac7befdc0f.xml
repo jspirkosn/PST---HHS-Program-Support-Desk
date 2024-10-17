@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="@servicenow/now-record-list-menu-connected" source="sn_rec_list_menu_c">3db8027898a93973f08538e42f091589</dependency>
+        <min_version>26.0.9</min_version>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-16 22:45:35</sys_created_on>
+        <sys_id>5a9868edfbdd5610c04cfbac7befdc0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Pub Sector - HHS Program Support Desk" source="x_snc_pub_sector_1">f547e8a5fbdd5610c04cfbac7befdcb9</sys_package>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-16 22:45:35</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>b7a53a2b5756bca9a85c5bcae0c09b059e0133532f14c1ae8b2ae0ff9ac57bbb</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>5547e4a5cfdd56109ae938baba9bfe48</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source"><sys_search_source action="INSERT_OR_UPDATE"><active>true</active><condition table="!!!table_name_1!!!">active=true</condition><group/><name>Pub Sub - DHS Service Desk - x_snc_pub_sub_dh_0_pr</name><roles/><source_table>!!!table_name_1!!!</source_table><sys_class_name>sys_search_source</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_312!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_search_source></record_update>]]></serialized_record>
+        <source_class>sys_search_source</source_class>
+        <source_id>29b99baff5349e10c166f25e7c45cead</source_id>
+        <source_name>Pub Sub - DHS Service Desk - x_snc_pub_sub_dh_0_pr</source_name>
+        <source_sys_id>71b9dbafec349e10f92551e935cd0ddb</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-16 22:42:29</sys_created_on>
+        <sys_id>7ce7a0a9fcdd56106d5f979d8c65bad5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_search_source</sys_name>
+        <sys_package display_value="Pub Sector - HHS Program Support Desk" source="x_snc_pub_sector_1">f547e8a5fbdd5610c04cfbac7befdcb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - HHS Program Support Desk">f547e8a5fbdd5610c04cfbac7befdcb9</sys_scope>
+        <sys_update_name>sys_app_scan_payload_7ce7a0a9fcdd56106d5f979d8c65bad5</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-16 22:42:29</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

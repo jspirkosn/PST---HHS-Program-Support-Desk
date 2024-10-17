@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>a90592a87f073971c74c1531eacf553b2a5c5f42a36ad47e977fbd7fe9727522</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>5547e4a5cfdd56109ae938baba9bfe48</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config/><description/><extension_point/><fields>notificationTrayDisplayed,notificationQueue,notificationTrayIsLoading,notificationUIRoute,toastItem</fields><icon/><name>Notification tray</name><optional_parameters/><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id>wsSidepanel</parent_macroponent_composition_element_id><route_type>notificationtray</route_type><screen_type display_value="">!!!sys_id_1326!!!</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_1327!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_ux_app_route></record_update>]]></serialized_record>
+        <source_class>sys_ux_app_route</source_class>
+        <source_id>29b99baff5349e10c166f25e7c45cead</source_id>
+        <source_name>Notification tray</source_name>
+        <source_sys_id>e5b99baf9a349e105c42dcb71d6b8de5</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-16 22:45:29</sys_created_on>
+        <sys_id>f498a4edb6dd5610e959e511da7b117b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_app_route</sys_name>
+        <sys_package display_value="Pub Sector - HHS Program Support Desk" source="x_snc_pub_sector_1">f547e8a5fbdd5610c04cfbac7befdcb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - HHS Program Support Desk">f547e8a5fbdd5610c04cfbac7befdcb9</sys_scope>
+        <sys_update_name>sys_app_scan_payload_f498a4edb6dd5610e959e511da7b117b</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-16 22:45:29</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

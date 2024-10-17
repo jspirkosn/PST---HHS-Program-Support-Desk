@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="INSERT_OR_UPDATE">
+        <name>sys_id_1333</name>
+        <original_value>edb99baf21349e1039824b155b6a58e6</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>5547e4a5cfdd56109ae938baba9bfe48</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>29b99baff5349e10c166f25e7c45cead</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-16 22:45:31</sys_created_on>
+        <sys_id>5d98a4ed84dd5610117dcf7e760675f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_id_1333</sys_name>
+        <sys_package display_value="Pub Sector - HHS Program Support Desk" source="x_snc_pub_sector_1">f547e8a5fbdd5610c04cfbac7befdcb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - HHS Program Support Desk">f547e8a5fbdd5610c04cfbac7befdcb9</sys_scope>
+        <sys_update_name>sys_app_scan_variable_5d98a4ed84dd5610117dcf7e760675f0</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-16 22:45:31</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Reference">242d82a65bea101001fb0c370581c7ea</type>
+        <variable_hash>144b8a30b03b61bdda8b253568ab5d5fd68cae21ec9d64e6a92cc81d5ee2b6b8</variable_hash>
+    </sys_app_scan_variable>
+</record_update>

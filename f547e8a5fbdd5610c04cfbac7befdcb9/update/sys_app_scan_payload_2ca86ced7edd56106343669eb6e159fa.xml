@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>4f34b82fe07c60c92985fbce30aee5615e97dbd83a9db0b9e4dc98c600fe408d</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>5547e4a5cfdd56109ae938baba9bfe48</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config/><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings>[
+    {
+        "eventMappingId": "clgwmwhhiaaawiieeddbhhwcjvmohhwk",
+        "isConfiguration": false,
+        "offRowStorageId": null,
+        "sourceEventApiName": "sn_app_analytics_w.NAV_ITEM_SELECTED_RELAY_ed7ad8a1c313101001a6e0dd9740ddd1",
+        "sourceEventCorrelationId": null,
+        "sourceEventSysId": null,
+        "targets": [
+            {
+                "targetId": "clgwmwhhiaaawiiffddbhhwpggghccqjl",
+                "type": "EVENT",
+                "declarativeAction": null,
+                "event": {
+                    "sysId": "8b82bf18e5276c8e423b6e4e0889b463",
+                    "payload": {
+                        "type": "MAP_CONTAINER",
+                        "container": {
+                            "route": {
+                                "type": "EVENT_PAYLOAD_BINDING",
+                                "binding": {
+                                    "address": [
+                                        "route"
+                                    ]
+                                }
+                            },
+                            "fields": {
+                                "type": "EVENT_PAYLOAD_BINDING",
+                                "binding": {
+                                    "address": [
+                                        "fields"
+                                    ]
+                                }
+                            },
+                            "params": {
+                                "type": "EVENT_PAYLOAD_BINDING",
+                                "binding": {
+                                    "address": [
+                                        "params"
+                                    ]
+                                }
+                            },
+                            "redirect": {
+                                "type": "EVENT_PAYLOAD_BINDING",
+                                "binding": {
+                                    "address": [
+                                        "redirect"
+                                    ]
+                                }
+                            },
+                            "passiveNavigation": {
+                                "type": "EVENT_PAYLOAD_BINDING",
+                                "binding": {
+                                    "address": [
+                                        "passiveNavigation"
+                                    ]
+                                }
+                            },
+                            "title": {
+                                "type": "EVENT_PAYLOAD_BINDING",
+                                "binding": {
+                                    "address": [
+                                        "title"
+                                    ]
+                                }
+                            },
+                            "multiInstField": {
+                                "type": "EVENT_PAYLOAD_BINDING",
+                                "binding": {
+                                    "address": [
+                                        "multiInstField"
+                                    ]
+                                }
+                            },
+                            "targetRoute": {
+                                "type": "EVENT_PAYLOAD_BINDING",
+                                "binding": {
+                                    "address": [
+                                        "targetRoute"
+                                    ]
+                                }
+                            },
+                            "external": null
+                        }
+                    },
+                    "apiName": "sn_canvas_core.NAV_ITEM_SELECTED"
+                },
+                "operation": null,
+                "clientScript": null,
+                "conditional": null,
+                "broker": null
+            }
+        ],
+        "sourceEventDefinition": {
+            "id": null,
+            "apiName": "sn_app_analytics_w.NAV_ITEM_SELECTED_RELAY_ed7ad8a1c313101001a6e0dd9740ddd1",
+            "type": "UXEVENT"
+        }
+    }
+]</event_mappings><macroponent display_value="KPI Details">ed7ad8a1c313101001a6e0dd9740ddd1</macroponent><macroponent_config>{
+    "label": {
+        "type": "TRANSLATION_LITERAL",
+        "value": {
+            "code": null,
+            "message": "",
+            "comment": ""
+        }
+    },
+    "bare": {
+        "type": "JSON_LITERAL",
+        "value": true
+    },
+    "scrollable": {
+        "type": "JSON_LITERAL",
+        "value": "y"
+    },
+    "headerLevel": {
+        "type": "JSON_LITERAL",
+        "value": "1"
+    },
+    "headingOnlyVisibleToScreenReaders": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "interceptNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "propagateNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    }
+}</macroponent_config><name>KPI Details Default</name><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="">!!!sys_id_1324!!!</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_id>!!!sys_id_1362!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_ux_screen></record_update>]]></serialized_record>
+        <source_class>sys_ux_screen</source_class>
+        <source_id>29b99baff5349e10c166f25e7c45cead</source_id>
+        <source_name>KPI Details Default</source_name>
+        <source_sys_id>29b99baf09349e10191c798eafc306c4</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-16 22:45:44</sys_created_on>
+        <sys_id>2ca86ced7edd56106343669eb6e159fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_screen</sys_name>
+        <sys_package display_value="Pub Sector - HHS Program Support Desk" source="x_snc_pub_sector_1">f547e8a5fbdd5610c04cfbac7befdcb9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - HHS Program Support Desk">f547e8a5fbdd5610c04cfbac7befdcb9</sys_scope>
+        <sys_update_name>sys_app_scan_payload_2ca86ced7edd56106343669eb6e159fa</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-16 22:45:44</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>
