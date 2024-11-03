@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_input_var">
+    <sys_app_template_input_var action="INSERT_OR_UPDATE">
+        <default>3d3241d35bad9e90ff18ef879656b9d0</default>
+        <description>Scan ID of the Payload &amp; Map scan</description>
+        <flow_input_variable display_value="Scan ID">11b2df2afbed9a90c04cfbac7befdcdb</flow_input_variable>
+        <label>Scan ID</label>
+        <mandatory>true</mandatory>
+        <name>scan_id</name>
+        <sys_class_name>sys_app_template_input_var</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-11-01 23:58:27</sys_created_on>
+        <sys_id>29b2136af1ed9a904152d98e24fb2715</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>scan_id</sys_name>
+        <sys_package display_value="HHS Program Support Desk - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HHS Program Support Desk - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope>
+        <sys_update_name>sys_app_template_input_var_29b2136af1ed9a904152d98e24fb2715</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-11-03 21:24:46</sys_updated_on>
+        <template display_value="HHS Program Support Desk - Pub Sector">8db29f2aabed9a90ff3d32ebcc6f37f3</template>
+        <type>string</type>
+    </sys_app_template_input_var>
+</record_update>
