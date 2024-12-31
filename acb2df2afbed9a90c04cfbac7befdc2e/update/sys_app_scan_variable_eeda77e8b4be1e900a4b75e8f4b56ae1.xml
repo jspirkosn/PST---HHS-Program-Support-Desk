@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="INSERT_OR_UPDATE">
+        <name>sys_id_1202</name>
+        <original_value>0121eb6820fa1e900b96bd3791aa7d95</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>25bafb68eebe1e9054605ee310a9fa8b</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>a3a29f2afbed9a90c04cfbac7befdc25</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-12-28 01:04:27</sys_created_on>
+        <sys_id>eeda77e8b4be1e900a4b75e8f4b56ae1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_id_1202</sys_name>
+        <sys_package display_value="HHS Program Support Desk - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HHS Program Support Desk - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope>
+        <sys_update_name>sys_app_scan_variable_eeda77e8b4be1e900a4b75e8f4b56ae1</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-12-28 01:04:27</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Reference">242d82a65bea101001fb0c370581c7ea</type>
+        <variable_hash>8057a9b9c6200283b1c79d65b8cf03cc0b96eff003be36e9244f8df7dafeff14</variable_hash>
+    </sys_app_scan_variable>
+</record_update>
