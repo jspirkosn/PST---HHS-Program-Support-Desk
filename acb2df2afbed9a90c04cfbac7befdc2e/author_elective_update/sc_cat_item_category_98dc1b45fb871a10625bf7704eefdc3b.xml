@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Disaster Assistance Program">3fccd745fb871a10625bf7704eefdc59</sc_cat_item>
+        <sc_category display_value="Small Business Administration (SBA)">708c5b05fb871a10625bf7704eefdc68</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-10 22:25:53</sys_created_on>
+        <sys_id>98dc1b45fb871a10625bf7704eefdc3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Small Business Administration (SBA).Disaster Assistance Program</sys_name>
+        <sys_package display_value="Public Sector Program Support - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public Sector Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope>
+        <sys_update_name>sc_cat_item_category_98dc1b45fb871a10625bf7704eefdc3b</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-10 22:25:53</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</application>
+        <file_path/>
+        <instance_id>efeaa946dbc0c740b2e05d00cf96194a</instance_id>
+        <instance_name>empjspirkosc2</instance_name>
+        <name>sc_cat_item_category_98dc1b45fb871a10625bf7704eefdc3b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Disaster Assistance Program">3fccd745fb871a10625bf7704eefdc59</sc_cat_item><sc_category display_value="Small Business Administration (SBA)">708c5b05fb871a10625bf7704eefdc68</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>john.spirko</sys_created_by><sys_created_on>2025-01-10 22:25:53</sys_created_on><sys_id>98dc1b45fb871a10625bf7704eefdc3b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Small Business Administration (SBA).Disaster Assistance Program</sys_name><sys_package display_value="Public Sector Program Support - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package><sys_policy/><sys_scope display_value="Public Sector Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope><sys_update_name>sc_cat_item_category_98dc1b45fb871a10625bf7704eefdc3b</sys_update_name><sys_updated_by>john.spirko</sys_updated_by><sys_updated_on>2025-01-10 22:25:53</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>2065949973</payload_hash>
+        <record_name>Small Business Administration (SBA).Disaster Assistance Program</record_name>
+        <reverted_from/>
+        <source>8a9481db93ad9e90d6aabe8d1dba103a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-10 22:25:53</sys_created_on>
+        <sys_id>1cdc1b45fb871a10625bf7704eefdc48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1945252ec870000001</sys_recorded_at>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-10 22:25:53</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>dcdc1b4578871a10df906704d6fb3e47</update_guid>
+        <update_guid_history>dcdc1b4578871a10df906704d6fb3e47:2065949973</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2025-01-24 23:04:45">9dd99971fb9f5610625bf7704eefdc00</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-25 07:04:45</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0335ac81c347497483d83d8987307990</sys_id>
+        <sys_metadata>98dc1b45fb871a10625bf7704eefdc3b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Small Business Administration (SBA).Disaster Assistance Program</sys_name>
+        <sys_package display_value="Social Program Support - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Social Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope>
+        <sys_scope_delete display_value="">3193c3af00d14183a2bae770b8670da1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_98dc1b45fb871a10625bf7704eefdc3b</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_98dc1b45fb871a10625bf7704eefdc3b">1cdc1b45fb871a10625bf7704eefdc48</sys_update_version>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-25 07:04:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

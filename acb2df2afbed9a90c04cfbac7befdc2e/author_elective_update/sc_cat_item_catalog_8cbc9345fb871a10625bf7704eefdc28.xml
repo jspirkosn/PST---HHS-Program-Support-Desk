@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="SBA Loan Application">03ac1345fb871a10625bf7704eefdc93</sc_cat_item>
+        <sc_catalog display_value="Government Service">39309be90ca14110f87754fcb42a79a1</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-10 22:25:19</sys_created_on>
+        <sys_id>8cbc9345fb871a10625bf7704eefdc28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Government Service.SBA Loan Application</sys_name>
+        <sys_package display_value="Public Sector Program Support - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public Sector Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_8cbc9345fb871a10625bf7704eefdc28</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-10 22:25:19</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</application>
+        <file_path/>
+        <instance_id>efeaa946dbc0c740b2e05d00cf96194a</instance_id>
+        <instance_name>empjspirkosc2</instance_name>
+        <name>sc_cat_item_catalog_8cbc9345fb871a10625bf7704eefdc28</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="SBA Loan Application">03ac1345fb871a10625bf7704eefdc93</sc_cat_item><sc_catalog display_value="Government Service">39309be90ca14110f87754fcb42a79a1</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>john.spirko</sys_created_by><sys_created_on>2025-01-10 22:25:19</sys_created_on><sys_id>8cbc9345fb871a10625bf7704eefdc28</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Government Service.SBA Loan Application</sys_name><sys_package display_value="Public Sector Program Support - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package><sys_policy/><sys_scope display_value="Public Sector Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope><sys_update_name>sc_cat_item_catalog_8cbc9345fb871a10625bf7704eefdc28</sys_update_name><sys_updated_by>john.spirko</sys_updated_by><sys_updated_on>2025-01-10 22:25:19</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1698570758</payload_hash>
+        <record_name>Government Service.SBA Loan Application</record_name>
+        <reverted_from/>
+        <source>8a9481db93ad9e90d6aabe8d1dba103a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-10 22:25:19</sys_created_on>
+        <sys_id>08bc9345fb871a10625bf7704eefdc2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1945252674d0000001</sys_recorded_at>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-10 22:25:19</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>c8bc9345a9871a10e113df18d0a9f52b</update_guid>
+        <update_guid_history>c8bc9345a9871a10e113df18d0a9f52b:-1698570758</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2025-01-24 23:04:30">7dc91571fb9f5610625bf7704eefdcae</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-25 07:04:30</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>9504814d13734fd8a759a8582d606789</sys_id>
+        <sys_metadata>8cbc9345fb871a10625bf7704eefdc28</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Government Service.SBA Loan Application</sys_name>
+        <sys_package display_value="Social Program Support - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package>
+        <sys_parent display_value="">03ac1345fb871a10625bf7704eefdc93</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Social Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope>
+        <sys_scope_delete display_value="">3193c3af00d14183a2bae770b8670da1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_8cbc9345fb871a10625bf7704eefdc28</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_8cbc9345fb871a10625bf7704eefdc28">08bc9345fb871a10625bf7704eefdc2c</sys_update_version>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-25 07:04:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

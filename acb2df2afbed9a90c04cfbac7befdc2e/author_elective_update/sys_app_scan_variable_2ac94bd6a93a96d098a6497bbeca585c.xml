@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="DELETE">
+        <name>sys_id_1838</name>
+        <original_value>97c20cb45fba9a90c2cb9f0c2c257f54</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>5a842a9f5d1b5a10aa5e27a08e4bccd4</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>a3a29f2afbed9a90c04cfbac7befdc25</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-02 07:59:28</sys_created_on>
+        <sys_id>2ac94bd6a93a96d098a6497bbeca585c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sys_id_1838</sys_name>
+        <sys_package display_value="Social Program Support - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope>
+        <sys_update_name>sys_app_scan_variable_2ac94bd6a93a96d098a6497bbeca585c</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-30 04:55:25</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Reference">242d82a65bea101001fb0c370581c7ea</type>
+        <variable_hash>18da2a597872336ad865d8aa2e835858d20601632764dbea8d8965db8dfd6774</variable_hash>
+    </sys_app_scan_variable>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</application>
+        <file_path/>
+        <instance_id>efeaa946dbc0c740b2e05d00cf96194a</instance_id>
+        <instance_name>empjspirkosc2</instance_name>
+        <name>sys_app_scan_variable_2ac94bd6a93a96d098a6497bbeca585c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable"><sys_app_scan_variable action="INSERT_OR_UPDATE"><name>sys_id_1838</name><original_value>97c20cb45fba9a90c2cb9f0c2c257f54</original_value><referenced_table>sys_app</referenced_table><run_script>false</run_script><scan_instance>5a842a9f5d1b5a10aa5e27a08e4bccd4</scan_instance><scan_source>scan</scan_source><source_id>a3a29f2afbed9a90c04cfbac7befdc25</source_id><sys_class_name>sys_app_scan_variable</sys_class_name><sys_created_by>john.spirko</sys_created_by><sys_created_on>2025-01-02 07:59:28</sys_created_on><sys_id>2ac94bd6a93a96d098a6497bbeca585c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>sys_id_1838</sys_name><sys_package display_value="Social Program Support - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package><sys_policy/><sys_scope display_value="Social Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope><sys_update_name>sys_app_scan_variable_2ac94bd6a93a96d098a6497bbeca585c</sys_update_name><sys_updated_by>john.spirko</sys_updated_by><sys_updated_on>2025-01-30 04:55:25</sys_updated_on><template_execution_script/><type display_value="Reference">242d82a65bea101001fb0c370581c7ea</type><variable_hash>18da2a597872336ad865d8aa2e835858d20601632764dbea8d8965db8dfd6774</variable_hash></sys_app_scan_variable></record_update>]]></payload>
+        <payload_hash>517018824</payload_hash>
+        <record_name>sys_id_1838</record_name>
+        <reverted_from/>
+        <source>8a9481db93ad9e90d6aabe8d1dba103a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-30 04:55:25</sys_created_on>
+        <sys_id>eb2ca213fb1f5a10625bf7704eefdc48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194b590605d0000001</sys_recorded_at>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-30 04:55:25</sys_updated_on>
+        <type>Variable</type>
+        <update_guid>ef2ca213eb1f5a104e7fe84a03233f47</update_guid>
+        <update_guid_history>ef2ca213eb1f5a104e7fe84a03233f47:517018824,2afe371f16c796503e9aada943ab15c9:-1121014941,2ac94bd6283a96d0baec0579c594a85d:1028494713</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-30 05:15:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_scan_variable">sys_app_scan_variable</sys_db_object>
+        <sys_id>078749b9ec0f41358078cf21c61e5241</sys_id>
+        <sys_metadata>2ac94bd6a93a96d098a6497bbeca585c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_id_1838</sys_name>
+        <sys_package display_value="Social Program Support - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Social Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope>
+        <sys_scope_delete display_value="">3193c3af00d14183a2bae770b8670da1</sys_scope_delete>
+        <sys_update_name>sys_app_scan_variable_2ac94bd6a93a96d098a6497bbeca585c</sys_update_name>
+        <sys_update_version display_value="sys_app_scan_variable_2ac94bd6a93a96d098a6497bbeca585c">eb2ca213fb1f5a10625bf7704eefdc48</sys_update_version>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-01-30 05:15:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

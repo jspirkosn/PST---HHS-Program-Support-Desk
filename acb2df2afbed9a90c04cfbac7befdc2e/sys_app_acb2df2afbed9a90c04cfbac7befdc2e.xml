@@ -15,7 +15,7 @@
         <license_model>none</license_model>
         <logo>30b2df2afbed9a90c04cfbac7befdc74</logo>
         <menu/>
-        <name>HHS Program Support Desk - Pub Sector</name>
+        <name>Social Program Support - Pub Sector</name>
         <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -32,9 +32,9 @@
         <sys_created_by>john.spirko</sys_created_by>
         <sys_created_on>2024-11-01 23:58:23</sys_created_on>
         <sys_id>acb2df2afbed9a90c04cfbac7befdc2e</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>john.spirko</sys_updated_by>
-        <sys_updated_on>2024-12-31 20:12:07</sys_updated_on>
+        <sys_updated_on>2025-01-29 23:24:21</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>

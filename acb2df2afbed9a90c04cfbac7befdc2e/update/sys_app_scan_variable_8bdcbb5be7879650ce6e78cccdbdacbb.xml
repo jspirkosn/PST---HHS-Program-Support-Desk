@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="INSERT_OR_UPDATE">
+        <name>table_name_1911</name>
+        <original_value>x_snc_hhs_progra_1_program_name_now_assist_hhs_services</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>9662cf28b363d210ec2601a6a066ad2e</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>a3a29f2afbed9a90c04cfbac7befdc25</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2025-01-18 00:32:12</sys_created_on>
+        <sys_id>8bdcbb5be7879650ce6e78cccdbdacbb</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>table_name_1911</sys_name>
+        <sys_package display_value="Social Program Support - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope>
+        <sys_update_name>sys_app_scan_variable_8bdcbb5be7879650ce6e78cccdbdacbb</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2025-02-03 03:45:03</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Table Name">70fc42ea5b2e101001fb0c370581c78e</type>
+        <variable_hash>c952384ccd821c937895937468a88e12d2ec91e19cd54719bad1018dac301508</variable_hash>
+    </sys_app_scan_variable>
+</record_update>

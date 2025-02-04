@@ -25,7 +25,7 @@
     </sys_app_scan_payload>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="HHS Program Support Desk - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</application>
+        <application display_value="Social Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</application>
         <file_path/>
         <instance_id>efeaa946dbc0c740b2e05d00cf96194a</instance_id>
         <instance_name>empjspirkosc2</instance_name>
@@ -58,10 +58,10 @@
         <sys_metadata>ed30276494fa1e90aee3e832941ebc66</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>io_set_item</sys_name>
-        <sys_package display_value="HHS Program Support Desk - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package>
+        <sys_package display_value="Social Program Support - Pub Sector" source="x_snc_hhs_progra_2">acb2df2afbed9a90c04cfbac7befdc2e</sys_package>
         <sys_parent/>
         <sys_policy/>
-        <sys_scope display_value="HHS Program Support Desk - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope>
+        <sys_scope display_value="Social Program Support - Pub Sector">acb2df2afbed9a90c04cfbac7befdc2e</sys_scope>
         <sys_scope_delete display_value="">3193c3af00d14183a2bae770b8670da1</sys_scope_delete>
         <sys_update_name>sys_app_scan_payload_ed30276494fa1e90aee3e832941ebc66</sys_update_name>
         <sys_update_version display_value="sys_app_scan_payload_ed30276494fa1e90aee3e832941ebc66">69302764fbfa1e90625bf7704eefdc69</sys_update_version>
